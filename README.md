@@ -1,4 +1,4 @@
 # Tasker
-A MEAN stack application use to list task. 
+A MEAN stack application used to list task. 
 
-# Application is still being work on.
+# Application under construction
